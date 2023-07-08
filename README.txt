@@ -2,7 +2,7 @@ Proyecto: Evaluación Final del Módulo - Desarrollo de aplicaciones web dinámi
 
 Equipo de Desarrollo:
 - Gabriel Muñoz / https://github.com/soyunmate/AbproM5
-- Juan Romero / https://github.com/JuanGuillermoRG/SprintM5
+- Juan Romero / https://github.com/JuanGuillermoRG/SprintM_5
 - Fabian Ugalde / https://github.com/fa17an/sprintM5
 - Marcelo Aceituno /
 
